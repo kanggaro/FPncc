@@ -1,6 +1,8 @@
 # FPncc
 contributed by
->`Piera`
 >`Qushoy`
+>`Piera`
 >`Damas`
 >`Rafael`
+
+"roadwebscrapping : (cari web -> dicopy ke database XAMPP -> pastikan sudah masuk database XAMPP -> tampilkan dengan database)"
