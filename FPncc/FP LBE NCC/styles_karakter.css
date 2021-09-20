@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #39E1C3;
+}
+
+.jumbotron {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 30px;
+    padding: 1px;
+    background-color: #00c8eb;
+    text-align: center;
+    color: white;
+    border: palevioletred solid 3px;
+}
+
+* {
+    box-sizing: border-box;
+    /* border: black solid 1px; */
+}
+
+table {
+    margin: auto;
+}
+
+h2 {
+    margin: auto;
+}
+
+.body {
+    margin: 50px;
+    padding-top: 200px;
+}
+
+.konten {
+    border: palevioletred solid 3px;
+}
+    
+
